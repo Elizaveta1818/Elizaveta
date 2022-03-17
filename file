@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Elizaveta1818/Elizaveta.git
+git branch -M main
+git push -u origin main
